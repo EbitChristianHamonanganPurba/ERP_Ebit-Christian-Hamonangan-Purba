@@ -1,0 +1,5 @@
+{
+  "name": "ERP Inventory Dashboard",
+  "description": "An ERP Inventory Dashboard that provides a stock summary, lists all items, and includes an AI-powered feature to extract data from uploaded invoices or delivery notes using Gemini.",
+  "requestFramePermissions": []
+}
